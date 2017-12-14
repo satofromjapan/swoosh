@@ -1,4 +1,4 @@
-package com.satofromjapan.swoosh
+package com.satofromjapan.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
